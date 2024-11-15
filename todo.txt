@@ -1,0 +1,3 @@
+-> Signup functionality
+-> Login functionality
+-> Logout functionality
